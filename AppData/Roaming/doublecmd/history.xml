@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>e:\backup\vm_backups\</Item>
+      <Item>e:\backup\</Item>
+      <Item>e:\</Item>
+      <Item>\\wsl$\AlmaLinux-9\home\aglu\source\</Item>
+      <Item>\\wsl$\AlmaLinux-9\home\aglu\source\ansible-homelab\</Item>
+      <Item>C:\VM\Disks\</Item>
+      <Item>C:\VM\</Item>
+      <Item>C:\VM\iso\</Item>
+      <Item>\\wsl$\AlmaLinux-9\home\aglu\source\ansible-homelab\automation\alma-iso\</Item>
+      <Item>\\wsl$\AlmaLinux-9\home\aglu\source\ansible-homelab\automation\</Item>
+      <Item>\\wsl$\AlmaLinux-9\home\aglu\</Item>
+      <Item>\\wsl$\AlmaLinux-9\home\</Item>
+      <Item>\\wsl$\AlmaLinux-9\</Item>
+      <Item>\\wsl$\</Item>
+      <Item>\</Item>
+      <Item>C:\Users\aglu\source\ansible-homelab\</Item>
+      <Item>C:\Users\aglu\source\</Item>
+      <Item>C:\Users\aglu\</Item>
+      <Item>C:\Users\aglu\source\ansible-homelab\automation\</Item>
+      <Item>C:\VM\lnx02\</Item>
+      <Item>C:\Users\aglu\source\ansible-homelab\automation\alma-iso\</Item>
+      <Item>C:\Users\aglu\Downloads\</Item>
+      <Item>C:\Users\aglu\.vscode\</Item>
+      <Item>C:\Users\aglu\vscode-remote-wsl\</Item>
+      <Item>C:\Users\aglu\vscode-remote-wsl\stable\</Item>
+      <Item>C:\Users\</Item>
+      <Item>C:\</Item>
+      <Item>C:\Temp\images\</Item>
+      <Item>C:\Temp\</Item>
+      <Item>C:\VM\lnx01\</Item>
+      <Item>C:\VM\lnx01\Virtual Machines\</Item>
+      <Item>e:\ФОТО\</Item>
+      <Item>e:\ФОТО\загорье\</Item>
+      <Item>e:\ФОТО\новый год14\</Item>
+      <Item>C:\VM\lnx02\Virtual Machines\</Item>
+      <Item>C:\VM\lnx02\Snapshots\</Item>
+      <Item>C:\Users\aglu\.ssh\</Item>
+      <Item>e:\backup\vm_backups\wsl\</Item>
+      <Item>e:\backup\NZ\</Item>
+      <Item>e:\backup\NZ\VisaDocuments\</Item>
+      <Item>e:\backup\NZ\VisaDocuments\Natalia\</Item>
+      <Item>C:\VM\Virtual Machines\</Item>
+      <Item>C:\Program Files (x86)\</Item>
+      <Item>C:\Program Files\</Item>
+      <Item>C:\Program Files\Hyper-V\</Item>
+      <Item>C:\Program Files\Hyper-V\en\</Item>
+      <Item>C:\Program Files\Hyper-V\en-US\</Item>
+      <Item>C:\VM\Snapshots\</Item>
+      <Item>e:\backup\NZ\VisaDocuments\Aleksandr\</Item>
+      <Item>e:\backup\desktop\</Item>
+    </Navigation>
+    <CommandLine/>
+    <FileMask>
+      <Item>*брак*</Item>
+      <Item>браке</Item>
+      <Item>marriagecertificate</Item>
+      <Item>marriage</Item>
+      <Item>*</Item>
+    </FileMask>
+    <VolumeSize/>
+    <CreateDirectories>
+      <Item Tag="0">lnx02</Item>
+      <Item Tag="0">Marina</Item>
+    </CreateDirectories>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <RenameNameMask/>
+    <RenameExtMask/>
+    <SearchDirectories>
+      <Item>e:\backup\</Item>
+      <Item>e:\backup\NZ\VisaDocuments\Aleksandr\</Item>
+    </SearchDirectories>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>
