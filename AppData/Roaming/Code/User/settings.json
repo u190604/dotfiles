@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "onFocusChange",
+    "workbench.sideBar.location": "right",
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "redhat.telemetry.enabled": false,
+    "ansible.validation.lint.enabled": false,
+    "makefile.configureOnOpen": false,
+    "claudeCode.preferredLocation": "panel",
+    "extensions.ignoreRecommendations": true,
+    "remote.extensionKind": {
+    },
+    "chatgpt.cliExecutable": "",
+    "remote.defaultExtensionsIfInstalledLocally": [
+        "openai.codex",
+        "GitHub.vscode-pull-request-github"
+    ],
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "chat.disableAIFeatures": true,
+    "remote.SSH.enableX11Forwarding": false,
+    "remote.autoForwardPortsSource": "hybrid"
+}
