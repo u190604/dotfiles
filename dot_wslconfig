@@ -1,0 +1,9 @@
+[wsl2]
+networkingMode=mirrored
+memory=4GB
+processors=4
+
+firewall=false
+guiApplications=false
+hardwarePerformanceCounters=false
+[experimental]
