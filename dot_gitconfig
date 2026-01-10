@@ -1,5 +1,11 @@
 [user]
-email = alex.gluhov@outlook.com
-name = aglu
-[init]
-defaultBranch = main
+	email = alex.gluhov@outlook.com
+	name = aglu
+	[init]
+	defaultBranch = main
+[merge]
+	tool = meld
+[difftool]
+    prompt = false
+[difftool "meld"]
+    cmd = meld "$LOCAL" "$REMOTE"
